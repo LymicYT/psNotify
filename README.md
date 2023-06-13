@@ -42,6 +42,7 @@ Please note that psNotify does not provide extensive customisation options beyon
 
 Overall, psNotify is a reliable and convenient notification system framework for Lua-based applications. It simplifies the process of displaying notifications, ensuring that important information, messages, and alerts reach users effectively, thus improving the overall user experience.
 
-https://media.discordapp.net/attachments/1110230336970961016/1118220970218504283/Notify.png?width=1246&height=701
+![Notify](https://github.com/LymicYT/psNotify/assets/133215287/aafe2257-a1b3-4bdd-b8d1-bf8fae3bcdef)
+
 
 https://discord.gg/VUFM67aMfq
